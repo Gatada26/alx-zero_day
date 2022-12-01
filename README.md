@@ -1,1 +1,1 @@
-README, .gitignore,
+.gitignore,
